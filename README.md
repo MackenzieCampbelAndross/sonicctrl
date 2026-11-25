@@ -131,3 +131,4 @@ Contributions must adhere to Conventional Commits, pass all quality gates, and a
 Proprietary software. All rights reserved by MackenzieCampbelAndross.
 
 <!-- commit-log: refactor(mixer): optimize pan balance calculation using clamped absolute offsets -->
+<!-- commit-log: perf(meters): throttle peak meter repaint interval to reduce GPU frame cost -->
