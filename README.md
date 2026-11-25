@@ -133,3 +133,4 @@ Proprietary software. All rights reserved by MackenzieCampbelAndross.
 <!-- commit-log: refactor(mixer): optimize pan balance calculation using clamped absolute offsets -->
 <!-- commit-log: perf(meters): throttle peak meter repaint interval to reduce GPU frame cost -->
 <!-- commit-log: style(strips): refine green-yellow-red LED peak meter gradient color stops -->
+<!-- commit-log: fix(store): ensure solo state isolates active channels during master volume shifts -->
